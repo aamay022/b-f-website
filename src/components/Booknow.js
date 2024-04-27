@@ -24,11 +24,11 @@ const Booknow =()=> {
 				</section>
 				<footer>
 																							
-									<a href='https://calendly.com/braveandfree305/group-package?background_color=0fffd7&primary_color=800080'  className="button large">Group Package (15 Passengers)
+									<a href='https://calendly.com/braveandfreemiami/group-package'  className="button large">Group Package (15 Passengers)
 									<h6>Note: Extra Guest Can Be Purchased Seperately</h6></a>
 											<br></br>
 											<br></br>							
-									<a href="https://calendly.com/braveandfree305/happy-hour?background_color=0fffd7&primary_color=800080" className="button large">Happy Hour Package(15 Passengers)
+									<a href="https://calendly.com/braveandfreemiami/happy-hour" className="button large">Happy Hour Package(15 Passengers)
 									<h6>Note: Extra Guest Can Be Purchased Seperately</h6></a>
 									<br></br>
 									<br></br>														

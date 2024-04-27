@@ -40,7 +40,7 @@ const Prices =()=> {
 										(Any additional passangers $35)</p>
 										<p>PRIVATE RENTAL</p>
 										<h2>Happy Hour Package (15 passangers)</h2>
-										<h3>$475 + FEES</h3>
+										<h3>$585 + FEES</h3>
 										<h6>Only available at certain dates and times</h6>
 										<p>2 HOUR TOUR</p>
 										<p>BYOB (NO GLASS ALLOWED)</p>
@@ -49,7 +49,7 @@ const Prices =()=> {
 										<p>PRIVATE RENTAL</p>
 
 										<h2>Individual Add On Ticket</h2>
-										<h3>$35 + FEES</h3>
+										<h3>$45 + Taxes</h3>
 										<h6>This is an individual seat purchase. Intended for when a group package has reached its 15 passenger max</h6>
 										<p>2 HOUR TOUR</p>
 										<p>BYOB (NO GLASS ALLOWED)</p>

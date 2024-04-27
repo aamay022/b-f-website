@@ -95,8 +95,9 @@ return (
 											<h2>Group Package</h2>
 											<h2>(15 Passengers)</h2>
 										</header>
-										<h3>$525 + FEES</h3>
+										<h3>$675</h3>
 										<h6>Note: Any Extra Guests Can Be Purchased Seperately</h6>
+										<h6>Requires Deposit</h6>
 										<p>2 HOUR TOUR</p>
 										<p>BYOB (NO GLASS ALLOWED)</p>
 										<p>COOLER + ICE + DJ ON BOARD</p>
@@ -104,7 +105,7 @@ return (
 										<p></p>
 										<p>PRIVATE RENTAL</p>
 										<ul className="actions">
-									<li><a href='https://calendly.com/braveandfree305/group-package?background_color=0fffd7&primary_color=800080' className="button large">Book Now</a></li>									
+									<li><a href='https://calendly.com/braveandfreemiami/group-package' className="button large">Book Now</a></li>									
 								</ul>	
 									</section>
 								</div>
@@ -115,9 +116,10 @@ return (
 											<h2>Happy Hour Package</h2>
 											<h2>(15 Passengers)</h2>
 										</header>
-										<h3>$475 + FEES</h3>
+										<h3>$585</h3>
 										<h6>Only available Monday through Thursday</h6>
 										<h6>Note: Any Extra Guests Can Be Purchased Seperately</h6>
+										<h6>Requires Deposit</h6>
 										<p>2 HOUR TOUR</p>
 										<p>BYOB (NO GLASS ALLOWED)</p>
 										<p>COOLER + ICE + DJ ON BOARD</p>
@@ -125,7 +127,7 @@ return (
 										<p>PRIVATE RENTAL</p>
 										
 								<ul className="actions">
-									<li><a href="https://calendly.com/braveandfree305/happy-hour?background_color=0fffd7&primary_color=800080" className="button large">Book Now</a></li>									
+									<li><a href="https://calendly.com/braveandfreemiami/happy-hour" className="button large">Book Now</a></li>									
 								</ul>							
 									</section>
 								</div>
@@ -136,7 +138,7 @@ return (
 											<h2>Add Extra Guest To Package</h2>
 											<h2>(Up to 15 Passengers)</h2>
 										</header>
-										<h3>$35 + FEES</h3>
+										<h3>$45 + Taxes</h3>
 										<h6>Note: This purchase is for any extra guest you would like to add to your package</h6>
 										<p>2 HOUR TOUR</p>
 										<p>BYOB (NO GLASS ALLOWED)</p>
